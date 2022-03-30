@@ -1,7 +1,14 @@
 ## Oi, eu sou Victor!
 ### 💖 Fullstack Developer
 ### 🏹 Entusiasta de UI/UX
-#### Formado em Big Data no Agronegócio, descobri no desenvolvimento web/mobile minha paixão e minha profissão. Gosto principalmente do Front-end aonde busco me aperfeiçoar sempre e dar meu melhor no que faço.
+#### • 👨🏻‍🎓  Formado em Big Data no Agronegócio, descobri no desenvolvimento web/mobile minha paixão e minha profissão. Gosto principalmente do Front-end aonde busco me aperfeiçoar sempre e dar meu melhor no que faço.
+#### • 🤩 Gosto muito de estudar sobre experiência de usuário e construir mockups de interfaces que atendam o máximo a necessidade do cliente.
+
+### Outras formações
+#### 👨🏻‍🚒 Técnico em segurança do trabalho.
+#### 👨🏻‍🎓  Inglês básico
+#### 👨🏻‍🎓  Inglês intermediário
+#### 👨🏻‍🎓  Rumo ao avançado e à tão sonhada fluência
 
 
 <div style="margin-top: 32px">
@@ -17,24 +24,24 @@
   <img align="center" title="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><br><br>
-  <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" title="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="center" title="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="center" title="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
           
           
 
   <h2 style="margin-bottom: 10px; margin-top: 16px"> Back-end </h2>
- <img align="center" title="AdonisJS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />       
-  <img align="center" title="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img align="center" title="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />      
+ <img align="center" title="NodeJS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />       
+  <img align="center" title="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="center" title="GraphQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />      
   <img align="center" title="AdonisJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /> 
           
 
  <h2 style="margin-bottom: 16px; margin-top: 16px"> Database </h2>
  <img align="center" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
- <img align="center" title="Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+ <img align="center" title="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
           
 
  <h2 style="margin-bottom: 16px; margin-top: 16px"> UI/UX </h2>
@@ -60,7 +67,7 @@
   ##
  
 <div style="margin-top: 32px"> 
-    <h2 style="margin-bottom: 16px">↓ Veja como entrar em contato comigo ↓</h2>
+    <h2 style="margin-bottom: 16px">↓ Como entrar em contato comigo ↓</h2>
   <a href="https://www.instagram.com/viturcm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/victorrcamargo97" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/jjtfDphk3U" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
